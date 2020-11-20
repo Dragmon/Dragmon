@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dragmon&show_icons=true&theme=dark&locale=en" alt="dragmon" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragmon&show_icons=true&locale=en&layout=compact" alt="dragmon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragmon&show_icons=true&locale=en&layout=compact" alt="dragmon" /></p>
